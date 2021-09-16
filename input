@@ -1,0 +1,27 @@
+surface_name	site_name	species_name	formation_energy	frequencies	bulk_structure	reference
+None	gas	ele	0.00	[]	fcc	this work
+None	gas	H	0.00	[]	fcc	this work
+None	gas	H2	0.00	[]	fcc	this work
+None	gas	O2	4.92	[]	fcc	this work
+None	gas	H2O	0.00	[]	fcc	this work
+None	gas	CH3COOH	1.62	[]	fcc	this work
+None	gas	CO2	1.18	[]	fcc	this work
+None	gas	C2H6	0.53	[]	fcc	this work
+None	gas	CH4	0.00	[]	fcc	this work
+Pt	111	CH3COO	1.6	[]	fcc	this work
+Pt	111	CH3	0.21	[]	fcc	this work
+Pt	111	CH3-CH3	1.71	[]	fcc	this work
+Pt	111	CH3-COO	3.9	[]	fcc	this work
+Pt	111	OH	0.93	[]	fcc	this work
+Pt	111	O	1.23	[]	fcc	this work
+Pt	111	OOH	3.65	[]	fcc	this work
+Pt	111	H2O	0.02	[]	fcc	this work
+Pt	111	CO2	0.70	[]	fcc	this work
+PtO2	111	CH3COO	3.65	[]	fcc	this work
+PtO2	111	CH3	0.38	[]	fcc	this work
+PtO2	111	CH3-CH3	2.73	[]	fcc	this work
+PtO2	111	CH3-COO	3.80	[]	fcc	this work
+PtO2	111	OH	2.53	[]	fcc	this work
+PtO2	111	O	3.09	[]	fcc	this work
+PtO2	111	OOH	5.03	[]	fcc	this work
+PtO2	111	H2O	0.17	[]	fcc	this work
